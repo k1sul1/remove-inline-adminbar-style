@@ -1,6 +1,6 @@
 {
     "name": "k1sul1/remove-inline-adminbar-style",
-    "description": "Remove !important top margin."
+    "description": "Remove !important top margin.",
     "type": "wordpress-muplugin",
     "license": "GPL2",
     "authors": [
